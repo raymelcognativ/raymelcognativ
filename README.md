@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @raymelcognativ
+- 👀 I’m interested in the world of web programming, particularly in backend development
+- 🌱 I’m currently learning Angular 18, Rust, and Golang
+- 💞️ I’m looking to collaborate on Open Source projects, wherever I can be useful to the community
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raymel-r-50457a16b/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Solving problems and optimizing code are my passions
